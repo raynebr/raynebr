@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Rayne
 
-<!--
-**raynebr/raynebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação
+💻 Desenvolvedor em formação focado em Java Backend
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring" />
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,gradle,docker,vscode" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raynebr&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynebr&layout=compact&theme=tokyonight" />
+
+</div>
+
+## 🐍 Snake Contributions
+
+![Snake animation](https://raw.githubusercontent.com/raynebr/raynebr/output/github-contribution-grid-snake.svg)
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor Java Backend, evoluindo continuamente através de projetos práticos e aprendizado constante.
+
