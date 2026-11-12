@@ -10,8 +10,14 @@
 ### Backend
 <img src="https://skillicons.dev/icons?i=java,spring" />
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=angular,js" />
+
 ### Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres" />
+
+### Mensageria
+<img src="https://skillicons.dev/icons?i=rabbitmq" />
 
 ### Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,gradle,docker,vscode" />
